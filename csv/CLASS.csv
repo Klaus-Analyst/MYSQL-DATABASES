@@ -1,0 +1,6 @@
+Class_ID,Room_No,Course_No,Section_No,Semester_No,Years,Instructor_ID,Campus_Name,Start_Date,Start_Time
+101,1,2206,8,5,2021,A4123,"The University of Chicago",2021-12-12,10:00:00
+102,2,2207,9,3,2021,A8164,"The University of Chicago",2021-12-13,09:30:00
+103,2,2208,10,2,2021,A6660,"Belmont University",2021-12-15,14:00:00
+104,3,2209,6,8,2021,A2290,"Illinois Institute of Technology",2021-12-16,12:30:00
+105,5,22010,9,6,2021,K5463,"Vassar College",2021-12-20,05:30:00
